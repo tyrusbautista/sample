@@ -5,6 +5,8 @@ namespace orion {
 namespace streamer {
 namespace processor {
 
+test
+
 struct Data {
 
 	std::string camera_name;
